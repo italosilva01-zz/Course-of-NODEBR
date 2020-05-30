@@ -1,0 +1,11 @@
+[   {
+    "nome": "Flash",
+    "poder": "Speed",
+    "id":1
+},
+{
+   "nome": "Lanterna verde",
+    "poder": "Energia",
+    "id":2
+}
+]
